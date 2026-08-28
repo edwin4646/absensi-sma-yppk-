@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Absensi Digital - SMA YPPK Yoanes XXIII",
+  "description": "Sistem Presensi Kehadiran Terpadu Siswa & Guru SMA YPPK Yoanes XXIII Merauke dengan Deteksi Wajah AI, GPS Radius, Gateway WhatsApp Ortu, Cetak Kartu QR, dan Manajemen Portal.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
